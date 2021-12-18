@@ -9,6 +9,7 @@ This is a set of sample applications covering various scenarios that can be exte
 - Lost Pet Finder			https://github.com/sktxdev/FullStackDevByExampleBookCode/petapp
 - Student Enrollment Portal		https://github.com/sktxdev/FullStackDevByExampleBookCode/studentapp
 - Generic CRM				https://github.com/sktxdev/FullStackDevByExampleBookCode/crmapp
+- Simple DMS				https://github.com/sktxdev/FullStackDevByExampleBookCode/dmsapp
 
 ### Technologies
 - Front End: Angular 9, Typescript, scss, html etc
