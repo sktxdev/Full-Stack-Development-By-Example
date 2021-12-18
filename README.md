@@ -12,7 +12,7 @@ This is a set of sample applications covering various scenarios that can be exte
 - Simple DMS				https://github.com/sktxdev/FullStackDevByExampleBookCode/dmsapp
 
 ### Technologies
-- Front End: Angular 9, Typescript, scss, html etc
+- Front End: Angular 13, Typescript, scss, html etc
 - Middle tier(api): Dotnet Core 3.1 (3.1.22), C#, DB Code is dapper or linq
 - Databse: SQL Server (some use of stored procedures)
 
