@@ -5,7 +5,8 @@ This is a set of sample applications covering various scenarios that can be exte
 The code is a part of the book series "Full Stack Development by Example". Each book covers one of the applications below, it takes the developer from beginning to end in the steps to build a functioning web application, this includes an angular front end, C# middle tier, and SQL Server backend. If you need to interface to other systems, there is a chapter on doing that with each application.
 
 ### Books
-- Full Stack Development By Example - Volume 1 - The basics
+*Full Stack Development By Example *
+- Volume 1 - The basics
 - Full Stack Development By Example - Volume 2 - Student Enrollments - an application to track student enrollments in classes
 - Full Stack Development By Example - Volume 3 - Patient Scheduler - a patient appointment organizer for a doctors office
 - Full Stack Development By Example - Volume 4 - A simple CRM for tracking sales leads
