@@ -1,4 +1,4 @@
-# WebAppsMadeEasy
+# Full Stack Development By Example Code
 
 This is a set of sample applications covering various scenarios that can be extended or borrowed from for your own application. The code is entirely free and located at github/sktxdev/
 
