@@ -4,24 +4,25 @@ This is a set of sample applications covering various scenarios that can be exte
 
 The code is a part of the book series "Full Stack Development by Example". Each book covers one of the applications below, it takes the developer from beginning to end in the steps to build a functioning web application, this includes an angular front end, C# middle tier, and SQL Server backend. If you need to interface to other systems, there is a chapter on doing that with each application.
 
-### Books
-*Full Stack Development By Example *
+### Full Stack Development By Example - Volumes
 - Volume 1 - The basics
-- Full Stack Development By Example - Volume 2 - Student Enrollments - an application to track student enrollments in classes
-- Full Stack Development By Example - Volume 3 - Patient Scheduler - a patient appointment organizer for a doctors office
-- Full Stack Development By Example - Volume 4 - A simple CRM for tracking sales leads
-- Full Stack Development By Example - Volume 5 - A simple document management system
-- Full Stack Development By Example - Volume 6 - Vet Portal - an application for vets to track pets they have treated
-- Full Stack Development By Example - Volume 7 - Lost Pet Portal - a portal for tracking lost pets
+- Volume 2 - Student Enrollments - an application to track student enrollments in classes
+- Volume 3 - Patient Scheduler - a patient appointment organizer for a doctors office
+- Volume 4 - A simple CRM for tracking sales leads
+- Volume 5 - A simple document management system
+- Volume 6 - Vet Portal - an application for vets to track pets they have treated
+- Volume 7 - Lost Pet Portal - a portal for tracking lost pets
 
 
 ### Application Links
-- Patient Management System (Humans)	https://github.com/sktxdev/FullStackDevByExampleBookCode/pmsapp
-- Vet Portal				https://github.com/sktxdev/FullStackDevByExampleBookCode/vetapp
-- Lost Pet Finder			https://github.com/sktxdev/FullStackDevByExampleBookCode/petapp
-- Student Enrollment Portal		https://github.com/sktxdev/FullStackDevByExampleBookCode/studentapp
-- Generic CRM				https://github.com/sktxdev/FullStackDevByExampleBookCode/crmapp
-- Simple DMS				https://github.com/sktxdev/FullStackDevByExampleBookCode/dmsapp
+- The Basics		https://github.com/sktxdev/FullStackDevBasics
+- Student Enrollment Portal		https://github.com/sktxdev/StudentEnrollmentApp
+- Patient Management System (Humans)	https://github.com/PMSApp
+- Generic CRM				https://github.com/sktxdev/CRMApp
+- Simple DMS				https://github.com/sktxdev/DMSApp
+- Vet Portal				https://github.com/sktxdev/VetApp
+- Lost Pet Finder			https://github.com/sktxdev/LostPetFinder
+
 
 ### Technologies
 - Front End: Angular 13, Typescript, scss, html etc
