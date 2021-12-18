@@ -12,12 +12,11 @@ This is a set of sample applications covering various scenarios that can be exte
 
 ### Technologies
 - Front End: Angular 9, Typescript, scss, html etc
-- Middle tier(api): Dotnet Core, C#, DB Code is linq and dapper
+- Middle tier(api): Dotnet Core 3.1 (3.1.22), C#, DB Code is dapper or linq
 - Databse: SQL Server (some use of stored procedures)
 
 ### Rationale:
 I'm using Microsoft technologies because thats what I used on a day to day basic. I may convert this to use other databases, but the UI and API are generic enough that they can be pointed at a different database with little trouble.
-
 
 ### Code Structure
 Within each repository, the code is segmented into 3 folders: UI, API and DB
