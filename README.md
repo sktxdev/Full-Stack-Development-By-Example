@@ -4,11 +4,11 @@ This is a set of sample applications covering various scenarios that can be exte
 
 
 ### Applications
-- Patient Management System (Humans)	https://github.com/sktxdev/pms
-- Vet Portal				https://github.com/sktxdev/vets
-- Lost Pet Finder			https://github.com/sktxdev/pets
-- Student Enrollment Portal		https://github.com/sktxdev/students
-- Generic CRM				https://github.com/sktxdev/crm
+- Patient Management System (Humans)	https://github.com/sktxdev/FullStackDevByExampleBookCode/pmsapp
+- Vet Portal				https://github.com/sktxdev/FullStackDevByExampleBookCode/vetapp
+- Lost Pet Finder			https://github.com/sktxdev/FullStackDevByExampleBookCode/petapp
+- Student Enrollment Portal		https://github.com/sktxdev/FullStackDevByExampleBookCode/studentapp
+- Generic CRM				https://github.com/sktxdev/FullStackDevByExampleBookCode/crmapp
 
 ### Technologies
 - Front End: Angular 9, Typescript, scss, html etc
