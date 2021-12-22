@@ -4,9 +4,7 @@
 This is the first volume in a set of hands on tutorials on how to build a web application. 
 
 This volume is designed to  takes a novice developer through the steps needed to develop a student / teacher portal for tracking classes, class schedules, courses and much more.
-This will include an angular front end, a C# middle tier, and a SQL Server backend and deploy everything in docker containers managed in a kubernetes cluster.
-
-If you need to interface to other systems, there is a chapter on doing that.
+This will include an angular front end, a C# middle tier, and a SQL Server backend and deploy everything in docker containers managed in a kubernetes cluster. If you want to interface to other systems, there is a chapter and example code that will show how to do that.
 
 ### The full series of Full Stack Development By Example Volumes are:
 | Volume   | Description | URL |
@@ -22,6 +20,8 @@ If you need to interface to other systems, there is a chapter on doing that.
 - Front End: Angular 13, Typescript, scss, html etc
 - Middle tier(api): Dotnet Core 3.1 (3.1.22), C#, DB Code is dapper or linq
 - Databse: SQL Server (some use of stored procedures)
+- Docker
+- Kubernetes
 
 ### Rationale:
 I'm using Microsoft technologies because thats what I used on a day to day basic. I may convert this to use other databases, but the UI and API are generic enough that they can be pointed at a different database with little trouble.
