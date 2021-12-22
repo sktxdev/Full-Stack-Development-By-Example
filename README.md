@@ -1,28 +1,22 @@
-# Full Stack Development By Example Code
+## Full Stack Development By Example
+## Volume 1 - Student / Teacher Portal
 
-This is a set of sample applications covering various scenarios that can be extended or borrowed from for your own application. The code is entirely free and located at https://github.com/sktxdev/
+This is the first volume in a set of hands on tutorials on how to build a web application. 
 
-The code is a part of the book series "Full Stack Development by Example". Each book covers one of the applications below, it takes the developer from beginning to end in the steps to build a functioning web application, this includes an angular front end, C# middle tier, and SQL Server backend. If you need to interface to other systems, there is a chapter on doing that with each application.
+This volume is designed to  takes a novice developer through the steps needed to develop a student / teacher portal for tracking classes, class schedules, courses and much more.
+This will include an angular front end, a C# middle tier, and a SQL Server backend and deploy everything in docker containers managed in a kubernetes cluster.
 
-### Full Stack Development By Example - Volumes
-- Volume 1 - The basics
-- Volume 2 - Student Enrollments - an application to track student enrollments in classes
-- Volume 3 - Patient Scheduler - a patient appointment organizer for a doctors office
-- Volume 4 - A simple CRM for tracking sales leads
-- Volume 5 - A simple document management system
-- Volume 6 - Vet Portal - an application for vets to track pets they have treated
-- Volume 7 - Lost Pet Portal - a portal for tracking lost pets
+If you need to interface to other systems, there is a chapter on doing that.
 
-
-### Application Links
-- The Basics		https://github.com/sktxdev/FullStackDevBasics
-- Student Enrollment Portal		https://github.com/sktxdev/StudentEnrollmentApp
-- Patient Management System (Humans)	https://github.com/PMSApp
-- Generic CRM				https://github.com/sktxdev/CRMApp
-- Simple DMS				https://github.com/sktxdev/DMSApp
-- Vet Portal				https://github.com/sktxdev/VetApp
-- Lost Pet Finder			https://github.com/sktxdev/LostPetFinder
-
+### The full series of Full Stack Development By Example Volumes are:
+| Volume   | Description | URL |
+| -------- | ----------- | --- |
+| 1 | Student Enrollments - an application to track student enrollments in classes	|	https://github.com/sktxdev/FSDevVolume1 |
+| 2 | Patient Scheduler - a patient appointment organizer for a doctors office	|	https://github.com/sktxdev/FSDevVolume2 |
+| 3 | A simple CRM for tracking sales leads	|	https://github.com/sktxdev/FSDevVolume3 |
+| 4 | A simple document management system	|	https://github.com/sktxdev/FSDevVolume4 |
+| 5 | Vet Portal - an application for vets to track pets they have treated	|	https://github.com/sktxdev/FSDevVolume5 |
+| 6 | Lost Pet Portal - a portal for tracking lost pets	|	https://github.com/sktxdev/FSDevVolume6 |
 
 ### Technologies
 - Front End: Angular 13, Typescript, scss, html etc
