@@ -1,6 +1,6 @@
 # Full Stack Development By Example
 
-## Volume 1 - Student / Teacher Portal
+## Introduction and Setup
 
 This is the first volume in a set of hands on tutorials on how to build a web application.
 
