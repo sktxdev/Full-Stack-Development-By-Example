@@ -16,7 +16,7 @@ Each volume will show how to setup an angular front end, a C# middle tier, and a
 | 4 | A simple document management system | <https://github.com/sktxdev/FSDevDMS> |
 | 5 | Vet Portal - an application for vets to track pets they have treated | <https://github.com/sktxdev/FSDevVetPortal> |
 | 6 | Lost Pet Portal - a portal for tracking lost pets | <https://github.com/sktxdev/FSDevLostPets> |
-| 7 | Property Manager - a portal for property maangement | <https://github.com/sktxdev/FSDevLostPets> |
+| 7 | Property Manager - a portal for property maangement | <https://github.com/sktxdev/FSDevPropman> |
 
 ### My Environment
 
