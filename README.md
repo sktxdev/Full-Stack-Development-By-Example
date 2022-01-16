@@ -15,7 +15,6 @@ Each volume will show how to setup an angular front end, a C# middle tier, and a
 | 3 | A simple CRM for tracking sales leads | <https://github.com/sktxdev/FSDevCRM> |
 | 4 | Student Enrollments - an application to track student enrollments in classes | <https://github.com/sktxdev/FSDevStudentPortal> |
 | 5 | Patient Scheduler - a patient appointment organizer for a doctors office | <https://github.com/sktxdev/FSDeVPatientScheduler> |
-
 | 6 | Lost Pet Portal - a portal for tracking lost pets | <https://github.com/sktxdev/FSDevLostPets> |
 | 7 | Vet Portal - an application for vets to track pets they have treated | <https://github.com/sktxdev/FSDevVetPortal> |
 
