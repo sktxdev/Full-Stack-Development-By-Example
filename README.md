@@ -5,7 +5,7 @@
 This is the first volume in a set of hands on tutorials on how to build a web application.
 
 This volume is designed to  takes a novice developer through the steps needed to develop a student / teacher portal for tracking classes, class schedules, courses and much more.
-This will include an angular front end, a C# middle tier, and a SQL Server backend and deploy everything in docker containers managed in a kubernetes cluster. If you want to interface to other systems, there is a chapter and example code that will show how to do that.
+This will include an angular front end, a C# middle tier, and a SQL Server backend and deploy everything in docker containers managed in a kubernetes cluster. If you want to interface to other systems, there is a chapter and example code that will show how to do that. You should be able to follow this tutorial on Windows, Mac or Linux. All the code was written on a base level mac mini m1.
 
 ### The full series of Full Stack Development By Example Volumes are
 
@@ -18,13 +18,12 @@ This will include an angular front end, a C# middle tier, and a SQL Server backe
 | 5 | Vet Portal - an application for vets to track pets they have treated | <https://github.com/sktxdev/FSDevVolume5> |
 | 6 | Lost Pet Portal - a portal for tracking lost pets | <https://github.com/sktxdev/FSDevVolume6> |
 
-### Technologies
+### My Environment
 
-- Front End: Angular 13, Typescript, scss, html etc
-- Middle tier(api): Dotnet Core 3.1 (3.1.22), C#, DB Code is dapper or linq
-- Databse: SQL Server (some use of stored procedures)
-- Docker
-- Kubernetes
+- Hardware: A base level Mac Mini M1
+- Front End: Angular 13, Material UI, Typescript, scss, html etc
+- Middle tier(api/services): Dotnet Core 3.1 (3.1.22), C#, DB Code uses dapper or linq
+- Databse: SQL Server running in a Docker Container
 
 ### Rationale
 
@@ -43,3 +42,10 @@ Within each repository, the code is segmented into 3 folders: UI, API and DB
 ### Other Stuff
 
 - The section on the DB queries will also cover how to generate data dictionaries, perform query performance analysis and more
+
+### Documentation
+
+[Requirements](Requirements/Requirements.md)
+[Database](Documentation/Database%20Design/Databsse%20Design.md)
+[API](Documentation/API%20Design/API%20Design.md)
+[UI](Documentation/API%20Design/Controllers/Controllers.md)
