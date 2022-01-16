@@ -45,7 +45,7 @@ Within each repository, the code is segmented into 3 folders: UI, API and DB
 
 ### Documentation
 
-[Requirements](Requirements/Requirements.md)<br>
-[Database](Documentation/Database%20Design/Databsse%20Design.md)<br>
-[API](Documentation/API%20Design/API%20Design.md)<br>
-[UI](Documentation/API%20Design/Controllers/Controllers.md)<br>
+[Requirements](./Requirements/Requirements.md)<br>
+[Database](./Documentation/Database%20Design/Databsse%20Design.md)<br>
+[API](./Documentation/API%20Design/API%20Design.md)<br>
+[UI](./Documentation/API%20Design/Controllers/Controllers.md)<br>
